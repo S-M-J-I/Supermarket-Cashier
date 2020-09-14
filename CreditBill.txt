@@ -1,0 +1,15 @@
+	 CASH RECEIPT
+=========================
+Address:		*address*
+Tel:		012345678901
+=====BILLING DETAILS=====
+CARD NUM. : 1234567890123456
+CARD NAME : Visa
+EXPY DATE : 2029
+CARD TYPE : Credit Card
+TOTAL AMOUNT : 3290.00 BDT
+=========================
+
+
+SIGN:____________________
+Come again!
